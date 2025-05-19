@@ -1,6 +1,7 @@
 from pprint import pprint
 from typing import List, Annotated
 
+#importing time for analayzing speed of response
 import time
 
 from langchain_core.documents import Document
